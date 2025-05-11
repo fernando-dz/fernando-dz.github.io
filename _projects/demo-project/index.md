@@ -9,7 +9,7 @@ skills:
   - Robot Framework
   - Playwright
 
-main-image: /project2.jpg
+main-image: /tc-Top.png
 ---
 
 ---
