@@ -1,16 +1,13 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Tariffed Check
+description:  An online calculator that uses active tariff rates to give users an estimate on how much their submitted order total may be affected.
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - Current Tariff analysis
+  - TypeScript
+  - CSS
+  - Robot Framework
+  - Playwright
 
 main-image: /project2.jpg
 ---
