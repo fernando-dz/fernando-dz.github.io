@@ -60,11 +60,14 @@ skills:
     - Postman
     - Wireshark
     - Heroku
-  - category: SDLC Standards / Practices
+  - category: SDLC Standards / Management
     tools:
     - Agile
     - Scrum
-    - Waterfall   
+    - Waterfall
+    - JIRA
+    - Xray
+    - Trello
   - category: IDEs
     tools:
     - Android Studio     
