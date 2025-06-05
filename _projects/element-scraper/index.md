@@ -8,7 +8,7 @@ skills:
   - Playrwight 
   - JSON
 
-main-image: /generated-test-list.png
+main-image: /Generated-Test-List.png
 ---
 [Element Scraper](https://github.com/fernando-dz/ScrappyTest)
 ---
