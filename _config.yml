@@ -17,7 +17,7 @@ headline: Software Quality Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
   I’m a technology enthusiast with over 18 years of experience in SaaS Quality Assurance. 
   While QA has been a cornerstone of my career, I have evolved into a versatile engineer 
-  who thrives on developing and managing software projects, automating processes, 
+  who thrives on developing and managing software projects, automating complex user flows, 
   and empowering others to succeed.
   
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
@@ -32,7 +32,7 @@ resume-url: https://drive.google.com/file/d/1vhwi6DZOgcQO5VNwzkvI4A6R-8Yl1yvY/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test     https://www.linkedin.com/in/fernando-diaz-29627a4 
+  linkedin:  https://www.linkedin.com/in/fernando-diaz-29627a4 
   github: fernando-dz    # https://github.com/{your url slug} 
   stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
@@ -82,7 +82,7 @@ skills:
     - QA Mentality
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/xkgrvgve
+formspree-key:   xkgrvgve
 
 
 
