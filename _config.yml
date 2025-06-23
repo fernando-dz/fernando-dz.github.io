@@ -13,12 +13,12 @@ title: Fernando-Dz's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Fernando Diaz
-headline: Software Quality Engineer
+headline: Systems Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
   I’m a technology enthusiast with over 18 years of experience in SaaS Quality Assurance. 
   While QA has been a cornerstone of my career, I have evolved into a versatile engineer 
-  who thrives on developing and managing software projects, automating complex user flows, 
-  and empowering others to succeed.
+  who thrives on empowering others to succeed by automating complex user flows and developing software to solve pain points.
+  
   
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatarfer.png
