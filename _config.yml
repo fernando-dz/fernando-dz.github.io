@@ -13,12 +13,12 @@ title: Fernando-Dz's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Fernando Diaz
-headline: Software Quality Engineer
+headline: Systems Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
   I’m a technology enthusiast with over 18 years of experience in SaaS Quality Assurance. 
   While QA has been a cornerstone of my career, I have evolved into a versatile engineer 
-  who thrives on developing and managing software projects, automating complex user flows, 
-  and empowering others to succeed.
+  who thrives on empowering others to succeed by automating complex user flows and developing software to solve pain points.
+  
   
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatarfer.png
@@ -32,7 +32,7 @@ resume-url: https://drive.google.com/file/d/1vhwi6DZOgcQO5VNwzkvI4A6R-8Yl1yvY/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin:  https://www.linkedin.com/in/fernando-diaz-29627a4 
+  linkedin:  fernando-diaz-29627a4 
   github: fernando-dz    # https://github.com/{your url slug} 
   stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
