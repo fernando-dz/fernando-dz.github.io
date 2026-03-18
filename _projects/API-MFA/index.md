@@ -6,7 +6,7 @@ skills:
   - Python
   - Requests
 
-main-image: /Generated-Test-List.png
+main-image: /api-mfa.png
 ---
 [API-MFA](https://github.com/fernando-dz/API-MFA)
 ---
