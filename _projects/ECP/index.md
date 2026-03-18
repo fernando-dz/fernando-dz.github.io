@@ -7,7 +7,7 @@ skills:
   - Typescript
   - HTML
 
-main-image: /name of new preview image.png
+main-image: /ecp-large-preview.png
 ---
 [API-MFA](https://github.com/everychildplays.io/everychildplayssdsu.io)
 ---
