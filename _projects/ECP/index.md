@@ -9,8 +9,8 @@ skills:
 
 main-image: /ecp-large-preview.png
 ---
-[API-MFA](https://github.com/everychildplays.io/everychildplayssdsu.io)
+[Every Child Plays](https://everychildplays.github.io/everychildplaysdsu.github.io/)
 ---
 ---
 How to use:
-Open a browser and open this link to visit the website:  https://github.com/everychildplays.io/everychildplayssdsu.io.
+Open a browser and open this link to visit the website:  https://everychildplays.github.io/everychildplaysdsu.github.io/.
