@@ -13,11 +13,12 @@ title: Fernando-Dz's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Fernando Diaz
-headline: Systems Engineer
+headline: QA Automation Architect & Software Consultant
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I’m a technology enthusiast with over 18 years of experience in SaaS Quality Assurance. 
-  While QA has been a cornerstone of my career, I have evolved into a versatile engineer 
-  who thrives on empowering others to succeed by automating complex user flows and developing software to solve pain points.
+  20+ years of experience spanning QA automation and full-stack software development.
+  I build test frameworks — Robot Framework, Python, Playwright, Appium — that catch what
+  actually matters, and I build the software itself: web apps, custom tooling, and
+  physical-digital integrations like NFC. Available for contract and consulting work.
   
   
 profile_image: ./assets/images/profile-image/avatarfer.png
