@@ -13,12 +13,10 @@ title: Fernando-Dz's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Fernando Diaz
-headline: QA Automation Architect & Software Consultant
+headline: Quality & Automation Engineer — Mobile, API, Web, and AI-Generated Code
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  20+ years of experience spanning QA automation and full-stack software development.
-  I build test frameworks — Robot Framework, Python, Playwright, Appium — that catch what
-  actually matters, and I build the software itself: web apps, custom tooling, and
-  physical-digital integrations like NFC. Available for contract and consulting work.
+  20+ years in quality engineering and test automation, now applied to verifying and
+  building AI-generated software. Available for contract and consulting.
   
   
 profile_image: ./assets/images/profile-image/avatarfer.png
