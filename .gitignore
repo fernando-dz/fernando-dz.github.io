@@ -6,3 +6,4 @@ css/_site/
 vendor/
 .idea/
 .DS_Store
+.bundle/
